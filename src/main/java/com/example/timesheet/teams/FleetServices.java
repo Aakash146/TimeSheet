@@ -19,7 +19,9 @@ public class FleetServices {
         List<String> pratap = List.of(new String[]{"Pratap Krishna Singh","Bhaskar Venugopal","Tarun Rawal","Rex Sheridan","pratap.singh@nagarro.com","bhaskar.venugopal@nagarro.com","tarun.rawal@nagarro.com","rex.sheridan@coxautoinc.com","3146911"});
         List<String> tarun = List.of(new String[]{"Tarun Rawal","Rajeev Kumarl","Tarun Rawal","Rex Sheridan","tarun.rawal@nagarro.com","rajeev.kumar@nagarro.com","tarun.rawal@nagarro.com","rex.sheridan@coxautoinc.com","3150086"});
         List<String> vipul = List.of(new String[]{"Vipul Punia","Bhaskar Venugopal","Tarun Rawal","Rex Sheridan","vipul@nagarro.com","bhaskar.venugopal@nagarro.com","tarun.rawal@nagarro.com","rex.sheridan@coxautoinc.com","3143615"});
+        List<String> ajithkumar = List.of(new String[]{"Ajithkumar S","Bhaskar Venugopal","Tarun Rawal","Rex Sheridan","ajithkumar.s@nagarro.com","bhaskar.venugopal@nagarro.com","tarun.rawal@nagarro.com","rex.sheridan@coxautoinc.com","3212354"});
 
+        names.add(ajithkumar);
         names.add(akruti);
         names.add(amrit);
         names.add(anshul);
