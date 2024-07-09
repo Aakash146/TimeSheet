@@ -20,6 +20,8 @@ public class FleetServices {
         List<String> tarun = List.of(new String[]{"Tarun Rawal","Rajeev Kumarl","Tarun Rawal","Rex Sheridan","tarun.rawal@nagarro.com","rajeev.kumar@nagarro.com","tarun.rawal@nagarro.com","rex.sheridan@coxautoinc.com","3150086"});
         List<String> vipul = List.of(new String[]{"Vipul Punia","Bhaskar Venugopal","Tarun Rawal","Rex Sheridan","vipul@nagarro.com","bhaskar.venugopal@nagarro.com","tarun.rawal@nagarro.com","rex.sheridan@coxautoinc.com","3143615"});
         List<String> ajithkumar = List.of(new String[]{"Ajithkumar S","Bhaskar Venugopal","Tarun Rawal","Rex Sheridan","ajithkumar.s@nagarro.com","bhaskar.venugopal@nagarro.com","tarun.rawal@nagarro.com","rex.sheridan@coxautoinc.com","3212354"});
+        List<String> prabudh = List.of(new String[]{"Prabudh Bhardwaj","Bhaskar Venugopal","Tarun Rawal","Rex Sheridan","prabudh.bhardwaj@nagarro.com","bhaskar.venugopal@nagarro.com","tarun.rawal@nagarro.com","rex.sheridan@coxautoinc.com","3201666"});
+        List<String> tanay = List.of(new String[]{"Tanay Chawla","Bhaskar Venugopal","Tarun Rawal","Yong Liu","tanay.chawla@nagarro.com","bhaskar.venugopal@nagarro.com","tarun.rawal@nagarro.com","zhiyong.liu@coxautoinc.com","3175343"});
 
         names.add(ajithkumar);
         names.add(akruti);
@@ -31,7 +33,9 @@ public class FleetServices {
         names.add(milan);
         names.add(nitish);
         names.add(oscar);
+        names.add(prabudh);
         names.add(pratap);
+        //names.add(tanay);
         names.add(tarun);
         names.add(vipul);
 
