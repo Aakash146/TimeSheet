@@ -25,7 +25,7 @@ public class FleetServices {
         List<String> tanay = List.of(new String[]{"Tanay Chawla","Bhaskar Venugopal","Tarun Rawal","Yong Liu","tanay.chawla@nagarro.com","bhaskar.venugopal@nagarro.com","tarun.rawal@nagarro.com","zhiyong.liu@coxautoinc.com","3175343"});
 
         names.add(abhijit);
-        names.add(ajithkumar);
+        //names.add(ajithkumar);
         names.add(akruti);
         names.add(amrit);
         names.add(anshul);
@@ -37,7 +37,7 @@ public class FleetServices {
         names.add(oscar);
         names.add(prabudh);
         names.add(pratap);
-        //names.add(tanay);
+        names.add(tanay);
         names.add(tarun);
         names.add(vipul);
 
