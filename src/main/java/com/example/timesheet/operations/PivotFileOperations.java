@@ -8,6 +8,7 @@ import org.apache.poi.ss.util.CellReference;
 import org.apache.poi.xssf.usermodel.XSSFPivotTable;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.apache.xmlbeans.impl.soap.Text;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -89,6 +90,9 @@ public class PivotFileOperations {
             Cell statusTextCell = row.getCell(13);
             Cell hoursCell = row.getCell(14);
 
+            projectBUIDCell.setCellType(CellType.STRING);
+            personnelNumberCell.setCellType(CellType.STRING);
+            empoloyeeIdCell.setCellType(CellType.STRING);
 
             String workPackageId = workPackageIdCell.getStringCellValue();
             String activityType = activityTypeCell.getStringCellValue();
@@ -105,6 +109,7 @@ public class PivotFileOperations {
             String end = endCell.getStringCellValue();
             String statusText = statusTextCell.getStringCellValue();
             double hours = hoursCell.getNumericCellValue();
+
 
             // Create a unique key based on Work Package ID and date
             String key = workPackageId + "_"+ activityType + "_" + empoloyeeId + "_" + date;

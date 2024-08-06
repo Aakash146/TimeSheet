@@ -10,6 +10,7 @@ public class Camp {
         //List<String> abhijit = List.of(new String[]{"Abhijit Honwalkar","Bhaskar Venugopal","Tarun Rawal","Leena Adhikary","abhijit.honwalkar@nagarro.com","bhaskar.venugopal@nagarro.com","tarun.rawal@nagarro.com","leena.adhikary@coxautoinc.com","3210232"});
         List<String> kamna = List.of(new String[]{"Kamna Sharma","Rajeev Kumar","Tarun Rawal","Leena Adhikary","kamna.sharma@nagarro.com","rajeev.kumar@nagarro.com","tarun.rawal@nagarro.com","leena.adhikary@coxautoinc.com","3151275"});
         List<String> syed = List.of(new String[]{"Syed Ali","Rajeev Kumar","Tarun Rawal","Leena Adhikary","syed01@nagarro.com","rajeev.kumar@nagarro.com","tarun.rawal@nagarro.com","leena.adhikary@coxautoinc.com","3193833"});
+        List<String> bsk = List.of(new String[]{"Basavaraj","Bhaskar Venugopal","Tarun Rawal","Leena Adhikary","basavaraj@nagarro.com","bhaskar.venugopal@nagarro.com","tarun.rawal@nagarro.com","leena.adhikary@coxautoinc.com","3193833"});
 
         //names.add(aakash);
         //names.add(abhijit);

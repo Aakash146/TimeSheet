@@ -23,6 +23,8 @@ public class FleetServices {
         List<String> ajithkumar = List.of(new String[]{"Ajithkumar S","Bhaskar Venugopal","Tarun Rawal","Rex Sheridan","ajithkumar.s@nagarro.com","bhaskar.venugopal@nagarro.com","tarun.rawal@nagarro.com","rex.sheridan@coxautoinc.com","3212354"});
         List<String> prabudh = List.of(new String[]{"Prabudh Bhardwaj","Bhaskar Venugopal","Tarun Rawal","Rex Sheridan","prabudh.bhardwaj@nagarro.com","bhaskar.venugopal@nagarro.com","tarun.rawal@nagarro.com","rex.sheridan@coxautoinc.com","3201666"});
         List<String> tanay = List.of(new String[]{"Tanay Chawla","Bhaskar Venugopal","Tarun Rawal","Yong Liu","tanay.chawla@nagarro.com","bhaskar.venugopal@nagarro.com","tarun.rawal@nagarro.com","zhiyong.liu@coxautoinc.com","3175343"});
+        List<String> sagar = List.of(new String[]{"Sagar Varasani","Rajeev Kumar","Tarun Rawal","Yong Liu","sagar.varasani@nagarro.com","rajeev.kumar@nagarro.com","tarun.rawal@nagarro.com","zhiyong.liu@coxautoinc.com","3175051"});
+
 
         names.add(abhijit);
         //names.add(ajithkumar);
